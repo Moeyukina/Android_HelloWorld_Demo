@@ -2,3 +2,4 @@
  An android helloworld demo application.
  
  该项目已终止更新
+ The project has been terminated
